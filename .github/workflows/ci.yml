@@ -8,7 +8,6 @@ jobs:
   tests:
     name: Tests
     runs-on: ubuntu-latest
-    run: npm run test
 
     steps:
       - name: Check out code
